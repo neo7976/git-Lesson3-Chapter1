@@ -8,6 +8,8 @@ public class Main {
 
         Yandex google = new Yandex("Google");
 
+        System.out.println("Hello");
+
 
     }
 }
