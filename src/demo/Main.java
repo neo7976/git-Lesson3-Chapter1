@@ -6,5 +6,8 @@ public class Main {
 
         Yandex yandex = new Yandex("Яндекс");
 
+        Yandex google = new Yandex("Google");
+
+
     }
 }
