@@ -15,4 +15,9 @@ public class MyPay {
     public void setMoney(int money) {
         this.money = money;
     }
+
+    @Override
+    public String toString() {
+        return "В моем кошельке " + money + "монет.";
+    }
 }
